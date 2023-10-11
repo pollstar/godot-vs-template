@@ -3,5 +3,6 @@
 [ext_resource type="Texture2D" uid="uid://brp228b0srs2x" path="res://icon.svg" id="1_hhe5j"]
 
 [node name="GDSceneSprite" type="GDSceneSprite"]
-position = Vector2(0.774182, 70.856)
+speed = 9.29
+position = Vector2(11.8841, 15.9979)
 texture = ExtResource("1_hhe5j")
